@@ -1,8 +1,25 @@
 # IR-SYSTEMS-FOR-SPORTS-DOMAIN
 
-This repo has 2 Information Retrieval problems
-* Searching which retrieves top 10 documents using rankled retrieval.
-* Classification based on sport
+This project uses novel techniques of Information Retrieval to rank and retrieve the documents and Machine learning techniques to classify the articles based on sport.
+Based on this idea, this project includes the following tasks :-
+* Data scraping.
+* Ranked retrieval of articles based on TF-IDF score.
+* Sport based classification.
+
+## Prerequisites :
+Softwares and libraries in the local machine before running this project.
+* Anaconda : It will install an ipython notebook and most of the libraries which are needed
+like sklearn,pandas,seaborn,matplotlib,numpy, scipy.
+* Python 3
+* wordninja
+* unidecode
+* nltk
+* emot
+* contractions
+* word2number
+* bs4
+* pickle
+
 
 The datasets used here are scrapped from Indianexpress.com -- [indianexpress](https://indianexpress.com/)
 
