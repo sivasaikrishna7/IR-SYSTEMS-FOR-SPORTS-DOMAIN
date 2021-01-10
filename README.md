@@ -1,5 +1,11 @@
 # IR-SYSTEMS-FOR-SPORTS-DOMAIN
 
+This repo has 2 Tasks
+* Searching which retrieves top 10 documents using rankled retrieval.
+* Classification based on sport
+
+The datasets used here are scrapped from Indianexpress.com
+
 ## Datasets
 * Tennis dataset [here](https://drive.google.com/file/d/1bUjUopF3oQsMJlGXHDgunIiJ3eA4HNWb/view?usp=sharing)
 * Football [here](https://drive.google.com/file/d/1bUjUopF3oQsMJlGXHDgunIiJ3eA4HNWb/view?usp=sharing)
