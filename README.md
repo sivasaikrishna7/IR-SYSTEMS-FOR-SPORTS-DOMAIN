@@ -1,2 +1,6 @@
 # IR-SYSTEMS-FOR-SPORTS-DOMAIN
-Scraping, Ranked Retrieval and Classification on sports dataset
+# My Project
+is really really cool. My Project has a subdir named myLib, see below.
+
+## myLib documentation
+see documentation [here](myLib/README.md)
